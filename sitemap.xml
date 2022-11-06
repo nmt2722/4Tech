@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://nmt2722.github.io/4Tech/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://nmt2722.github.io/4Tech/</loc>
+</url>
+<url>
+<loc>https://nmt2722.github.io/4Tech/home-page.html</loc>
+<lastmod>2022-11-06T07:16:43+05:30</lastmod>
+<image:image>
+<image:loc>https://nmt2722.github.io/4Tech/media\posts\1/Logo1PlainSVG.svg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://nmt2722.github.io/4Tech/media\posts\1/77366-engineering-2.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://nmt2722.github.io/4Tech/page1.html</loc>
+<lastmod>2022-11-06T06:52:27+05:30</lastmod>
+</url>
+<url>
+<loc>https://nmt2722.github.io/4Tech/page6.html</loc>
+<lastmod>2022-11-06T06:45:41+05:30</lastmod>
+</url>
+<url>
+<loc>https://nmt2722.github.io/4Tech/page7.html</loc>
+<lastmod>2022-11-06T06:45:48+05:30</lastmod>
+</url>
+</urlset>

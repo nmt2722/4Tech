@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nmt2722.github.io/4Tech/sitemap.xml

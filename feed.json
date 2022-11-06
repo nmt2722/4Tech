@@ -1,0 +1,70 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ShreeHariTech",
+    "description": "",
+    "home_page_url": "https://nmt2722.github.io/4Tech",
+    "feed_url": "https://nmt2722.github.io/4Tech/feed.json",
+    "user_comment": "",
+    "icon": "https://nmt2722.github.io/4Tech/media/website/Logo1png-2.png",
+    "author": {
+        "name": "N"
+    },
+    "items": [
+        {
+            "id": "https://nmt2722.github.io/4Tech/page7.html",
+            "url": "https://nmt2722.github.io/4Tech/page7.html",
+            "title": "ABOUT US",
+            "summary": "Shree Tech was started in 2022 as a new beginning to harness the power of expertise and experience in various&hellip;",
+            "content_html": "<h4 class=\"align-left\">Shree Tech was started in 2022 as a new beginning to harness the power of expertise and experience in various fields of Engineering.</h4>\n<p class=\"align-left\">Led by a team of experts in their own fields with loads of project completion records in various domains, now offers technical consultancy services. </p>",
+            "author": {
+                "name": "N"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T20:51:15+05:30",
+            "date_modified": "2022-11-06T06:45:48+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/4Tech/page6.html",
+            "url": "https://nmt2722.github.io/4Tech/page6.html",
+            "title": "CONTACT INFORMATION",
+            "summary": "E-Mail shreetech.shreetech@xxxxxxxmail.com dsa.shreetech@xxxxxmail.com nmt.shreetech@xxxxxmail.com",
+            "content_html": "<h3>E-Mail</h3>\n<ul>\n<li>shreetech.shreetech@xxxxxxxmail.com</li>\n<li><a href=\"mailto:dsa.shreetech@xxxxxmail.com\">dsa.shreetech@xxxxxmail.com</a></li>\n<li><a href=\"mailto:nmt.shreetech@xxxxxmail.com\">nmt.shreetech@xxxxxmail.com</a></li>\n<li> </li>\n</ul>",
+            "author": {
+                "name": "N"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T20:51:05+05:30",
+            "date_modified": "2022-11-06T06:45:41+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/4Tech/page1.html",
+            "url": "https://nmt2722.github.io/4Tech/page1.html",
+            "title": "SERVICES OFFERED",
+            "summary": "Technical &amp; Consultancy Services Offered Structural Analysis and Design for new projects Structural Analysis and Remedial measures for projects under&hellip;",
+            "content_html": "<h2 class=\"align-center\"><span style=\"color: #169179;\">Technical &amp; Consultancy Services Offered </span></h2>\n<ol>\n<li>\n<h4><span style=\"color: #843fa1;\">Structural Analysis and Design for new projects</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Structural Analysis and Remedial measures  for  projects under distress</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">HVAC solutions</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Detailing and Drafting solutions</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Proof Checking</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Software Solutions</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Small Scale Manufacturing</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Technical Event Management</span></h4>\n</li>\n<li>\n<h4><span style=\"color: #843fa1;\">Learning Management System and Training</span></h4>\n</li>\n</ol>",
+            "author": {
+                "name": "N"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T20:50:28+05:30",
+            "date_modified": "2022-11-06T06:52:27+05:30"
+        },
+        {
+            "id": "https://nmt2722.github.io/4Tech/home-page.html",
+            "url": "https://nmt2722.github.io/4Tech/home-page.html",
+            "title": "SHREE TECH",
+            "summary": "We at Shree Tech provide thorough solutions to Engineering probelems.",
+            "content_html": "<h3 class=\"align-center\"><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://nmt2722.github.io/4Tech/media/posts/1/Logo1PlainSVG.svg\" alt=\"\" width=\"189\" height=\"267\"></figure></h3>\n<h3 class=\"align-center\">We at Shree Tech provide thorough solutions to</h3>\n<h3 class=\"align-center\">Engineering probelems.</h3>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://nmt2722.github.io/4Tech/media/posts/1/77366-engineering-2.gif\" alt=\"\" width=\"328\" height=\"328\"></figure>",
+            "author": {
+                "name": "N"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-09T20:43:11+05:30",
+            "date_modified": "2022-11-06T07:16:43+05:30"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ShreeHariTech</title>
+    <link href="https://nmt2722.github.io/4Tech/feed.xml" rel="self" />
+    <link href="https://nmt2722.github.io/4Tech" />
+    <updated>2022-11-06T07:16:43+05:30</updated>
+    <author>
+        <name>N</name>
+    </author>
+    <id>https://nmt2722.github.io/4Tech</id>
+
+    <entry>
+        <title>ABOUT US</title>
+        <author>
+            <name>N</name>
+        </author>
+        <link href="https://nmt2722.github.io/4Tech/page7.html"/>
+        <id>https://nmt2722.github.io/4Tech/page7.html</id>
+
+        <updated>2022-11-06T06:45:48+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Shree Tech was started in 2022 as a new beginning to harness the power of expertise and experience in various&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h4 class="align-left">Shree Tech was started in 2022 as a new beginning to harness the power of expertise and experience in various fields of Engineering.</h4>
+<p class="align-left">Led by a team of experts in their own fields with loads of project completion records in various domains, now offers technical consultancy services. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>CONTACT INFORMATION</title>
+        <author>
+            <name>N</name>
+        </author>
+        <link href="https://nmt2722.github.io/4Tech/page6.html"/>
+        <id>https://nmt2722.github.io/4Tech/page6.html</id>
+
+        <updated>2022-11-06T06:45:41+05:30</updated>
+            <summary>
+                <![CDATA[
+                    E-Mail shreetech.shreetech@xxxxxxxmail.com dsa.shreetech@xxxxxmail.com nmt.shreetech@xxxxxmail.com
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3>E-Mail</h3>
+<ul>
+<li>shreetech.shreetech@xxxxxxxmail.com</li>
+<li><a href="mailto:dsa.shreetech@xxxxxmail.com">dsa.shreetech@xxxxxmail.com</a></li>
+<li><a href="mailto:nmt.shreetech@xxxxxmail.com">nmt.shreetech@xxxxxmail.com</a></li>
+<li> </li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SERVICES OFFERED</title>
+        <author>
+            <name>N</name>
+        </author>
+        <link href="https://nmt2722.github.io/4Tech/page1.html"/>
+        <id>https://nmt2722.github.io/4Tech/page1.html</id>
+
+        <updated>2022-11-06T06:52:27+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Technical &amp; Consultancy Services Offered Structural Analysis and Design for new projects Structural Analysis and Remedial measures for projects under&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center"><span style="color: #169179;">Technical &amp; Consultancy Services Offered </span></h2>
+<ol>
+<li>
+<h4><span style="color: #843fa1;">Structural Analysis and Design for new projects</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Structural Analysis and Remedial measures  for  projects under distress</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">HVAC solutions</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Detailing and Drafting solutions</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Proof Checking</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Software Solutions</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Small Scale Manufacturing</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Technical Event Management</span></h4>
+</li>
+<li>
+<h4><span style="color: #843fa1;">Learning Management System and Training</span></h4>
+</li>
+</ol>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>SHREE TECH</title>
+        <author>
+            <name>N</name>
+        </author>
+        <link href="https://nmt2722.github.io/4Tech/home-page.html"/>
+        <id>https://nmt2722.github.io/4Tech/home-page.html</id>
+
+        <updated>2022-11-06T07:16:43+05:30</updated>
+            <summary>
+                <![CDATA[
+                    We at Shree Tech provide thorough solutions to Engineering probelems.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center"><figure class="post__image post__image--center"><img loading="lazy"  src="https://nmt2722.github.io/4Tech/media/posts/1/Logo1PlainSVG.svg" alt="" width="189" height="267"></figure></h3>
+<h3 class="align-center">We at Shree Tech provide thorough solutions to</h3>
+<h3 class="align-center">Engineering probelems.</h3>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://nmt2722.github.io/4Tech/media/posts/1/77366-engineering-2.gif" alt="" width="328" height="328"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
